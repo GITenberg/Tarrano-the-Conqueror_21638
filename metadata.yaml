@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8443
     wikipedia: http://en.wikipedia.org/wiki/Ray_Cummings
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21638#Tarrano-the-Conqueror
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-05-29'
 gutenberg_type: Text
